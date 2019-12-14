@@ -1,0 +1,6 @@
+B168;13/12/2019;Área de comunicaciones
+L170;13/12/2019;Área de gestión, planificación y estrategia de servicios
+O107;13/12/2019;Área de control de riesgos
+Y150;13/12/2019;Área de negocio y aplicaciones empresariales
+X175;13/12/2019;Área de Centro de atención al usuario
+S167;13/12/2019;Área de sistemas e infraestructuras
